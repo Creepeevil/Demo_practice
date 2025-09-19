@@ -1,0 +1,4 @@
+ID1,ngoc_annie,qjdqqjrf5339,patient
+ID2,ngan123,qjdq456,patient
+ID3,Tran123,wudq456,patient
+ID4,thuvy123,wkxy|456,patient
